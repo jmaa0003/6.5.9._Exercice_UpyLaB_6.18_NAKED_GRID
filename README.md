@@ -1,0 +1,1 @@
+# 6.5.9._Exercice_UpyLaB_6.18_NAKED_GRID
