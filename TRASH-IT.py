@@ -10,7 +10,7 @@ et qui renvoie un couple de valeurs.
 
 def naked_single(grid):
     i,i_max,j,j_max, chiffres  = 0,len(grid),0,len(grid[-1]), [i for i in range(1,10)]
----    
+---   #I thought about deleting this section and doing it in a miscellaneous way 
     while i < i_max:
         colonne, ligne = grid[j][i], grid[i]
         
